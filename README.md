@@ -10,7 +10,7 @@ Bu repo [Patika.dev](https://www.patika.dev) *ReactNativeToDoApp* ödevi için o
 
 ## Installation
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın.
 
 ```bash
 git clone https://github.com/yunussukrugulten/ReactNativeToDoApp.git
