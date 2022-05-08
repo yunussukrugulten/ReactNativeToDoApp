@@ -1,31 +1,22 @@
-# ReactNativeToDoApp
+## ReactNativeToDoApp
+To-do list app with React Native.
 
-Bu repo [Patika.dev](https://www.patika.dev) *ReactNativeToDoApp* ödevi için oluşturduğum bir diğer repo.
-
-## Patika.dev Hesabım
+## Patika.dev Account
 [Yunus Şükrü Gülten](https://app.patika.dev/yunussukrugulten)
 
-## Proje Resmi
+## Project Picture
 ![github](src/components/img/ReactNativeToDoApp.png)
 
 ## Installation
-
-Öncelikle projeyi clonelayın.
-
 ```bash
 git clone https://github.com/yunussukrugulten/ReactNativeToDoApp.git
 ```
 
 ## Usage
-
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-
-Linux için:
 ```linux
 cd ReactNativeToDoApp
 code .
 ```
 
 ## License
-
 [MIT](https://choosealicense.com/licenses/mit/)
